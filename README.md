@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://metrics.lecoq.io/hupunith26?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&config.timezone=Asia%2FCalcutta&config.display=large&plugin.isocalendar=yes&plugin.isocalendar.duration=full-year&plugin.languages=yes&plugin.languages.details=percentage&plugin.languages.limit=8&plugin.languages.threshold=0%25&plugin.habits=yes&plugin.habits.facts=yes&plugin.habits.charts=yes&plugin.lines=yes&plugin.repositories=yes&plugin.repositories.featured=hupunith26%2Fmy-project&plugin.achievements=yes&plugin.achievements.display=compact&plugin.achievements.threshold=C" alt="GitHub metrics dashboard" />
+  <img width="100%" src="./github-metrics.svg" alt="GitHub metrics dashboard" />
 </p>
 
 <p align="center">
