@@ -49,13 +49,17 @@ I build practical web applications with a focus on frontend experience, full-sta
 
 ## Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hupunith26&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hupunith26&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+| Metric | Value |
+| --- | --- |
+| Public projects | 4 |
+| Featured areas | Full-stack apps, AI tools, security dashboards |
+| Main stack | React, Next.js, Node.js, Express, Python, MongoDB |
+| Current showcase repos | Ticket-booking, code-review-copilot, AI-Attack-Path-Platform |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hupunith26&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%2B%20Next.js-2C5364?style=for-the-badge" alt="Frontend badge" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-00C9A7?style=for-the-badge" alt="Backend badge" />
+  <img src="https://img.shields.io/badge/AI-Gemini%20%2B%20Analysis-0F2027?style=for-the-badge" alt="AI badge" />
 </p>
 
 <p align="center">
