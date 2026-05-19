@@ -28,22 +28,17 @@ I build practical web applications with a focus on frontend experience, full-sta
 
 ## Featured Projects
 
-<p align="center">
-  <a href="https://github.com/hupunith26/Ticket-booking">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=hupunith26&repo=Ticket-booking&theme=tokyonight&hide_border=true" alt="Ticket-booking" />
-  </a>
-  <a href="https://github.com/hupunith26/code-review-copilot">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=hupunith26&repo=code-review-copilot&theme=github_dark&hide_border=true" alt="code-review-copilot" />
-  </a>
-</p>
+| Project | What it shows |
+| --- | --- |
+| [Ticket-booking](https://github.com/hupunith26/Ticket-booking) | Full-stack movie ticket booking platform with admin flows, booking logic, Stripe integration, and Clerk authentication. |
+| [code-review-copilot](https://github.com/hupunith26/code-review-copilot) | Next.js and TypeScript project for AI-assisted pull request review, GitHub integration, diff parsing, and review dashboards. |
+| [AI-Attack-Path-Platform](https://github.com/hupunith26/AI-Attack-Path-Platform) | Python backend plus React dashboard for attack path analysis, risk scoring, and security recommendations. |
+| [hupunith26](https://github.com/hupunith26/hupunith26) | My GitHub profile repository with live metrics and profile presentation. |
 
 <p align="center">
-  <a href="https://github.com/hupunith26/AI-Attack-Path-Platform">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=hupunith26&repo=AI-Attack-Path-Platform&theme=merko&hide_border=true" alt="AI-Attack-Path-Platform" />
-  </a>
-  <a href="https://github.com/hupunith26/hupunith26">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=hupunith26&repo=hupunith26&theme=algolia&hide_border=true" alt="profile repository" />
-  </a>
+  <img src="https://img.shields.io/badge/Ticket--booking-Full%20Stack-0F2027?style=for-the-badge" alt="Ticket-booking badge" />
+  <img src="https://img.shields.io/badge/code--review--copilot-Next.js%20%2B%20AI-2C5364?style=for-the-badge" alt="code-review-copilot badge" />
+  <img src="https://img.shields.io/badge/AI--Attack--Path--Platform-Python%20%2B%20React-00C9A7?style=for-the-badge" alt="AI-Attack-Path-Platform badge" />
 </p>
 
 ## GitHub Metrics
