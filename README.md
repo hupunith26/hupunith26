@@ -1,7 +1,7 @@
 <h1 align="center">Punith H U</h1>
 
 <p align="center">
-  <b>GitHub profile dashboard</b>
+  <b>Developer profile dashboard</b>
 </p>
 
 <p align="center">
