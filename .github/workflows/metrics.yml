@@ -36,7 +36,7 @@ jobs:
           plugin_habits_charts: yes
           plugin_lines: yes
           plugin_repositories: yes
-          plugin_repositories_featured: hupunith26/my-project
+          plugin_repositories_featured: hupunith26/git-project, hupunith26/my-project, hupunith26/React_lab, hupunith26/portfolio, hupunith26/sample
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: C
