@@ -31,12 +31,8 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
           plugin_lines: yes
           plugin_repositories: yes
-          plugin_repositories_featured: hupunith26/git-project, hupunith26/my-project, hupunith26/React_lab, hupunith26/portfolio, hupunith26/sample
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          plugin_repositories_featured: hupunith26/Ticket-booking, hupunith26/code-review-copilot, hupunith26/AI-Attack-Path-Platform, hupunith26/hupunith26
+
+
